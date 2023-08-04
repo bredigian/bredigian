@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 My name is **Gianluca Bredice**, I'm 21, I'm from Argentina and I'm _**Fullstack Developer**_.
 
 
