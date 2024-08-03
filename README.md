@@ -10,7 +10,9 @@ I'm Gianluca Bredice, a **Fullstack Developer**. I'm 22, I'm from Argentina, and
   - Repositories: private.
 - Iluminarte
   - Deploy: https://iluminarte.vercel.app
-  - Repositories: private.
+  - Repositories:
+    - Frontend: https://github.com/bredigian/iluminarte-frontend
+    - Backend: https://github.com/bredigian/iluminarte-backend
 - MB Peluqueria
   - Deploy: https://mbpeluqueria.vercel.app
   - Repository: https://github.com/bredigian/mbpeluqueria
